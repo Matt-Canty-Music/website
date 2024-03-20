@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "website" # the subpath of your site, e.g. /blog
 url: "https://matt-canty-music.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+instagram_username: mattcantybass
 
 # Build settings
 theme: minima
@@ -53,24 +53,4 @@ future: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
-  
-  # Minima date format.
-  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  date_format: "%b-%d-%Y"
-
-  # Generate social links in footer.
-  social_links:
-   - { platform: instagram,      user_url: "https://www.instagram.com/mattcantybass/" }
    
