@@ -1,0 +1,13 @@
+---
+layout: post
+title:  The Lancaster Album Band @ Victoria Hall, Settle
+date:   2023-10-06 20:00:00 +0000
+categories: bass gig concert "bob dylan" "lancaster album band"
+---
+
+[The Lancaster Album Band (LABs)](https://thelabsband.co.uk) performing Bob Dylan's Blonde on Blonde from start to finish.
+With support from Dan Haywood.
+
+This video was taken on the night:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zkNO5NiqeB4?si=DIkWsdgGt5Z-Z7AB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
